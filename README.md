@@ -1,8 +1,8 @@
-<div style="text-align: center;">
+<div align="center">
     <img src=".src/../src/imgs/logo.png" width="150" />
 </div>
 <h1 style="text-align: center;"> Image generator with NodeJS </h1>
-<h2 align="center"> This is a simple image generator with NodeJS. </h2>
+<p align="center"> This is a simple image generator with NodeJS. </p>
 
 <h3> Features </h3>
 <ul>
